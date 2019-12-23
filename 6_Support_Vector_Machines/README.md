@@ -1,0 +1,2 @@
+# Support Vector Machines
+Esta atividade introduz a Support Vector Machines usando para classificação de e-mails. O arquivo ex6.pdf contém a descrição detalhada dos requisitos para conclusão da atividade.
