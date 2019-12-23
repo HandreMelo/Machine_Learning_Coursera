@@ -1,0 +1,2 @@
+# Logistic Regression
+Esta atividade introduz a Regressão Logística. O arquivo ex2.pdf contém a descrição detalhada dos requisitos para conclusão da atividade.
