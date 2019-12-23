@@ -1,0 +1,1 @@
+Esta atividade introduz a Redes Neurais com Retropropagação (backpropagation) também para reconhecimento de dígitos. O arquivo ex4.pdf contém a descrição detalhada dos requisitos para conclusão da atividade.
